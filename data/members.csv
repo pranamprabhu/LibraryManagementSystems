@@ -1,0 +1,4 @@
+memberId,name,email,phone,borrowedBookIds
+M001,Alice Johnson,alice@example.com,+1-555-0101,B001
+M002,Bob Smith,bob@example.com,+1-555-0102,
+M003,Charlie Davis,charlie@example.com,+1-555-0103,

@@ -200,3 +200,4 @@ public class Loan {
                 loanId, bookId, memberId, issueDate, status, fineStr);
     }
 }
+

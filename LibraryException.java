@@ -3,3 +3,4 @@ public class LibraryException extends Exception {
         super(message);
     }
 }
+

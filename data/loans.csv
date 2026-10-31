@@ -1,0 +1,3 @@
+loanId,bookId,memberId,issueDate,dueDate,returnDate,fineAmount,isReturned
+L1001,B001,M001,2026-10-11,2026-10-25,NONE,0.0,false
+L1002,B002,M002,2026-10-31,2026-11-14,2026-10-31,0.0,true

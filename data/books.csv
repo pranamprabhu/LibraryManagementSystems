@@ -1,0 +1,7 @@
+id,isbn,title,author,category,isIssued,dueDate
+B001,978-0134685991,Effective Java,Joshua Bloch,Computer Science,true,2026-10-25
+B002,978-0596009205,Head First Design Patterns,Eric Freeman,Software Engineering,false,NONE
+B003,978-0132350884,Clean Code,Robert C. Martin,Software Engineering,false,NONE
+B004,978-0451524935,1984,George Orwell,Fiction,false,NONE
+B005,978-0061120084,To Kill a Mockingbird,Harper Lee,Classic Literature,false,NONE
+B006,978-0321356680,Effective C++,Scott Meyers,Computer Science,false,NONE

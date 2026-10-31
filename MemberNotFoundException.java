@@ -3,3 +3,4 @@ public class MemberNotFoundException extends Exception {
         super(message);
     }
 }
+
